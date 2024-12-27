@@ -46,18 +46,26 @@ Web Development (HTML5, CSS3, JavaScript)
 📜 Certifications
 
 Product Management Fundamentals
+
 Product Analytics
+
 Product Marketing
+
 Tech for Non-Tech PMs
 
 
 🏆 Achievements
 
--Secured First Prize for research paper presentation on "Internet of Things" at Computer Society of India (CSI). 
+-Secured First Prize for research paper presentation on "Internet of Things" at Computer Society of India (CSI).
+
 -Served as student journalist, launching and leading the college's first newsletter program.
+
 -Led webcasting operations at Collector's Office during General Elections, recognized by Deputy Collector for excellence.
+
 -Coordinated ISRO Week Expo managing 500+ participants and space tech demonstrations.
+
 -Served as Class Representative for 60+ students, managing academics and events (2015-2019).
+
 -Received Master Orator Championship recognition at GITAM Institute for public speaking.
 
 
