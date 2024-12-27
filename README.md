@@ -1,4 +1,6 @@
-Mounika Vuriti - Product Management Portfolio
+Mounika Vuriti - Product Management Enthusiast
+
+
 Results-driven professional with experience in product management, software development and user-centric solutions.
 
 
@@ -51,10 +53,15 @@ Tech for Non-Tech PMs
 
 🏆 Achievements
 
-First Prize - IoT Research Paper @ CSI
-Founded College Newsletter Program
+-Secured First Prize for research paper presentation on "Internet of Things" at Computer Society of India (CSI). 
+-Served as student journalist, launching and leading the college's first newsletter program.
+-Led webcasting operations at Collector's Office during General Elections, recognized by Deputy Collector for excellence.
+-Coordinated ISRO Week Expo managing 500+ participants and space tech demonstrations.
+-Served as Class Representative for 60+ students, managing academics and events (2015-2019).
+-Received Master Orator Championship recognition at GITAM Institute for public speaking.
 
 
 📫 Contact: vuritimounika@gmail.com
+
 🌐 Location: Hyderabad, India 
 
